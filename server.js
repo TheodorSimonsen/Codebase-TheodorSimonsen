@@ -9,7 +9,7 @@ const session = require('express-session');
 const mysql = require('mysql');
 const logger = require('morgan');
 const bodyParser = require('body-parser');
-const port = process.env.PORT || 1239;
+const port = process.env.PORT || 1238;
 
 // SERVER
 //===========================================================
