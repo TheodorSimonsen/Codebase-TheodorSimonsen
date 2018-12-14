@@ -1,7 +1,6 @@
 // IMPORTS (NPM I)
 //===========================================================
 const express = require('express');
-const bcrypt = require('bcrypt');
 const fs = require('fs');
 const pjson = require('./package.json');
 const debug = require('debug');
